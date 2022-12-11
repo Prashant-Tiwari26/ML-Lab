@@ -30,7 +30,7 @@ You need 3 libraries to run all the code :
 - numpy
 - matplotlib
 
-If you dont have these already the run the following code to install them :
+If you dont have these already the run then following code to install them :
 ```
 pip install pandas numpy matplotlib
 ```
